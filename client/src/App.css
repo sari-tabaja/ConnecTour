@@ -1,0 +1,107 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Free-Travel-Backgrounds-Download-HD.jpg'); /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px;
+}
+
+.logo {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #007bff;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.user-name {
+  margin-right: 20px;
+  font-size: 1em;
+  color: #1E90FF;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.btn.primary {
+  background-color: #007bff;
+}
+
+.btn.primary:hover {
+  background-color: #0056b3;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 70px; /* Adjust to prevent content being hidden under the fixed header */
+  box-sizing: border-box;
+}

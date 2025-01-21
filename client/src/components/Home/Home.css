@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 74vh; /* Adjust the height to fill the viewport */
+  text-align: center; /* Center the text horizontally */
+}
+
+.home h1 {
+  font-size: 60px; /* Adjust the font size */
+  background: linear-gradient(to right, #0077B6, #7209B7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

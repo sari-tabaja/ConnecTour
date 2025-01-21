@@ -1,0 +1,82 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+}
+
+.attraction-category-selection {
+  max-width: 600px; /* Further reduced max-width */
+  margin: 60px auto 0; /* Added margin-top to push content below the navbar */
+  padding: 5px; /* Further reduced padding */
+  text-align: center;
+  border-radius: 5px; /* Further reduced border-radius */
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.attraction-category-selection h1 {
+  margin-bottom: 5px; /* Further reduced margin-bottom */
+  font-size: 1.5em; /* Further reduced font-size */
+}
+
+.categories {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px; /* Further reduced gap */
+}
+
+.category-card {
+  border: 1px solid #ccc;
+  border-radius: 5px; /* Further reduced border-radius */
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.category-card:hover {
+  transform: translateY(-3px); /* Further reduced translate */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Further reduced box-shadow */
+}
+
+.category-card.selected {
+  border-color: #007bff;
+}
+
+.category-image {
+  width: 100%;
+  height: 100px; /* Further reduced height */
+  object-fit: cover;
+}
+
+.category-info {
+  padding: 5px; /* Further reduced padding */
+}
+
+.category-info h2 {
+  margin: 0;
+  font-size: 1em; /* Further reduced font-size */
+}
+
+.category-info p {
+  margin: 3px 0 0; /* Further reduced margin */
+  font-size: 0.8em; /* Further reduced font-size */
+}
+
+.btn.primary {
+  margin-top: 5px; /* Further reduced margin-top */
+  padding: 5px 10px; /* Further reduced padding */
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px; /* Further reduced border-radius */
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 0.8em; /* Further reduced font-size */
+}
+
+.btn.primary:hover {
+  background-color: #0056b3;
+}

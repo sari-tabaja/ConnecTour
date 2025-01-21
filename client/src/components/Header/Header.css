@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding-top: 70px; /* To prevent content from being hidden under the fixed header */
+}
+
+.header {
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #0a2540; /* Update to match the header background color */
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between; /* Space between items */
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 2em; /* Increase font size */
+  font-weight: bold; /* Make the text bold */
+  color: #007bff; /* Keep the blue color */
+  text-decoration: none;
+}
+
+.logo-image {
+  height: 50px; /* Adjust as needed */
+  width: auto;
+  margin-right: 10px; /* Space between logo and text */
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  margin-left: auto; /* Pushes the nav items to the right */
+  gap: 10px; /* Add space between buttons */
+}
+
+.user-name {
+  margin-right: 2000px;
+  font-size: 1em;
+  color: #fff7f7;
+}
+
+.btn {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.header .btn.primary {
+  background-color: transparent;
+  color: #007bff; /* Keep the blue color */
+}
+
+.header .btn.primary:hover {
+  background-color: #007bff;
+  color: #fff; /* Ensure text color remains white */
+}
+
+.btn:hover {
+  background-color: #5a6670; /* Update to match the hover background color */
+  color: #fff; /* Ensure text color remains white */
+}
+
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-right {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+}

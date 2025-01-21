@@ -1,0 +1,80 @@
+.payment-method-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px; /* Reduce padding */
+    max-width: 800px; /* Reduce max width */
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px; /* Reduce border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Reduce shadow */
+}
+
+.card {
+    flex: 1;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px; /* Reduce padding */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Reduce shadow */
+    background-color: #fff;
+    margin-right: 10px; /* Reduce margin */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card:last-child {
+    margin-right: 0;
+}
+
+.card h2 {
+    margin-bottom: 10px; /* Reduce margin */
+    font-size: 1.5em; /* Reduce font size */
+}
+
+.form-group {
+    margin-bottom: 10px; /* Reduce margin */
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px; /* Reduce margin */
+    font-weight: bold;
+    font-size: 0.9em; /* Reduce font size */
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px; /* Reduce padding */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9em; /* Reduce font size */
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 16px; /* Reduce padding */
+    font-size: 0.9em; /* Reduce font size */
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.passenger-card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.passenger-card li {
+    padding: 8px 0; /* Reduce padding */
+    border-bottom: 1px solid #ddd;
+}

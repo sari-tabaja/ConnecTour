@@ -1,0 +1,7450 @@
+[{
+  "_id": {
+    "$oid": "667c419380f298e4252c67cd"
+  },
+  "flightNumber": "KLM_FL001",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 161.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ce"
+  },
+  "flightNumber": "KLM_FL002",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T00:00:00",
+  "price": 165.97,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T22:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67cf"
+  },
+  "flightNumber": "KLM_FL003",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 160.89,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d0"
+  },
+  "flightNumber": "KLM_FL004",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T07:00:00",
+  "price": 169.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d1"
+  },
+  "flightNumber": "KLM_FL005",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 171.25,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d2"
+  },
+  "flightNumber": "KLM_FL006",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 160.42,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d3"
+  },
+  "flightNumber": "KLM_FL007",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 169.68,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d4"
+  },
+  "flightNumber": "KLM_FL008",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 161.86,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d5"
+  },
+  "flightNumber": "KLM_FL009",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 154.57,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d6"
+  },
+  "flightNumber": "KLM_FL010",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 171.28,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d7"
+  },
+  "flightNumber": "KLM_FL011",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 152.5,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d8"
+  },
+  "flightNumber": "KLM_FL012",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 160.19,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67d9"
+  },
+  "flightNumber": "KLM_FL013",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 155.24,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67da"
+  },
+  "flightNumber": "KLM_FL014",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T04:00:00",
+  "price": 157.05,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T02:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67db"
+  },
+  "flightNumber": "KLM_FL015",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 164.71,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67dc"
+  },
+  "flightNumber": "KLM_FL016",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 170.56,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67dd"
+  },
+  "flightNumber": "KLM_FL017",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 171.84,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67de"
+  },
+  "flightNumber": "KLM_FL018",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 156.62,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67df"
+  },
+  "flightNumber": "KLM_FL019",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T04:00:00",
+  "price": 169.19,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T02:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e0"
+  },
+  "flightNumber": "KLM_FL020",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 163.06,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e1"
+  },
+  "flightNumber": "KLM_FL021",
+  "tripType": "one-way",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 152.67,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e2"
+  },
+  "flightNumber": "KLM_FL022",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 161.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e3"
+  },
+  "flightNumber": "KLM_FL023",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 155.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e4"
+  },
+  "flightNumber": "KLM_FL024",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 171.11,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e5"
+  },
+  "flightNumber": "KLM_FL025",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T21:00:00",
+  "price": 168.05,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T19:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e6"
+  },
+  "flightNumber": "KLM_FL026",
+  "tripType": "one-way",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 163.96,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e7"
+  },
+  "flightNumber": "KLM_FL027",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 163.72,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e8"
+  },
+  "flightNumber": "KLM_FL028",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 169.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67e9"
+  },
+  "flightNumber": "KLM_FL029",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 168.32,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ea"
+  },
+  "flightNumber": "KLM_FL030",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 165.99,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67eb"
+  },
+  "flightNumber": "KLM_FL031",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 154.58,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ec"
+  },
+  "flightNumber": "KLM_FL032",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 158.49,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ed"
+  },
+  "flightNumber": "KLM_FL033",
+  "tripType": "one-way",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 169.23,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ee"
+  },
+  "flightNumber": "KLM_FL034",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 155.24,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67ef"
+  },
+  "flightNumber": "KLM_FL035",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 164.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f0"
+  },
+  "flightNumber": "KLM_FL036",
+  "tripType": "one-way",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 156.14,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f1"
+  },
+  "flightNumber": "KLM_FL037",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 155.03,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f2"
+  },
+  "flightNumber": "KLM_FL038",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T05:00:00",
+  "price": 170.44,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f3"
+  },
+  "flightNumber": "KLM_FL039",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 152.15,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f4"
+  },
+  "flightNumber": "KLM_FL040",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 152.18,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f5"
+  },
+  "flightNumber": "KLM_FL041",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 154.44,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f6"
+  },
+  "flightNumber": "KLM_FL042",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 155.21,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f7"
+  },
+  "flightNumber": "KLM_FL043",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 157.2,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f8"
+  },
+  "flightNumber": "KLM_FL044",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T18:00:00",
+  "price": 167.1,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T16:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67f9"
+  },
+  "flightNumber": "KLM_FL045",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 154.28,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67fa"
+  },
+  "flightNumber": "KLM_FL046",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 156.99,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67fb"
+  },
+  "flightNumber": "KLM_FL047",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 153.52,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67fc"
+  },
+  "flightNumber": "KLM_FL048",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 153.78,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67fd"
+  },
+  "flightNumber": "KLM_FL049",
+  "tripType": "one-way",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 166.58,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419380f298e4252c67fe"
+  },
+  "flightNumber": "KLM_FL050",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 159.75,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "KLM.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c67ff"
+  },
+  "flightNumber": "BritishAirways_FL001",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 164.07,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6800"
+  },
+  "flightNumber": "BritishAirways_FL002",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 154.72,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6801"
+  },
+  "flightNumber": "BritishAirways_FL003",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 167.38,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6802"
+  },
+  "flightNumber": "BritishAirways_FL004",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 157.33,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6803"
+  },
+  "flightNumber": "BritishAirways_FL005",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 165.47,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6804"
+  },
+  "flightNumber": "BritishAirways_FL006",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 171.36,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6805"
+  },
+  "flightNumber": "BritishAirways_FL007",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 168.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6806"
+  },
+  "flightNumber": "BritishAirways_FL008",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 170.98,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6807"
+  },
+  "flightNumber": "BritishAirways_FL009",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 171.84,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6808"
+  },
+  "flightNumber": "BritishAirways_FL010",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T18:00:00",
+  "price": 155.68,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T16:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6809"
+  },
+  "flightNumber": "BritishAirways_FL011",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 161.6,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680a"
+  },
+  "flightNumber": "BritishAirways_FL012",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 158.81,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680b"
+  },
+  "flightNumber": "BritishAirways_FL013",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 162.17,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680c"
+  },
+  "flightNumber": "BritishAirways_FL014",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 155.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680d"
+  },
+  "flightNumber": "BritishAirways_FL015",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 153.62,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680e"
+  },
+  "flightNumber": "BritishAirways_FL016",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 160.78,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c680f"
+  },
+  "flightNumber": "BritishAirways_FL017",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 163.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6810"
+  },
+  "flightNumber": "BritishAirways_FL018",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 163.08,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6811"
+  },
+  "flightNumber": "BritishAirways_FL019",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 168.43,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6812"
+  },
+  "flightNumber": "BritishAirways_FL020",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 157.1,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6813"
+  },
+  "flightNumber": "BritishAirways_FL021",
+  "tripType": "one-way",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 166.94,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6814"
+  },
+  "flightNumber": "BritishAirways_FL022",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 152.65,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6815"
+  },
+  "flightNumber": "BritishAirways_FL023",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 165.27,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6816"
+  },
+  "flightNumber": "BritishAirways_FL024",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 156.19,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6817"
+  },
+  "flightNumber": "BritishAirways_FL025",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 168.16,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6818"
+  },
+  "flightNumber": "BritishAirways_FL026",
+  "tripType": "one-way",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 161.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6819"
+  },
+  "flightNumber": "BritishAirways_FL027",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 172.12,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681a"
+  },
+  "flightNumber": "BritishAirways_FL028",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 154.62,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681b"
+  },
+  "flightNumber": "BritishAirways_FL029",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 163.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681c"
+  },
+  "flightNumber": "BritishAirways_FL030",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T21:00:00",
+  "price": 171.25,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T19:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681d"
+  },
+  "flightNumber": "BritishAirways_FL031",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 165.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681e"
+  },
+  "flightNumber": "BritishAirways_FL032",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 162.51,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c681f"
+  },
+  "flightNumber": "BritishAirways_FL033",
+  "tripType": "one-way",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 170.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6820"
+  },
+  "flightNumber": "BritishAirways_FL034",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 157.95,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6821"
+  },
+  "flightNumber": "BritishAirways_FL035",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 166.43,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6822"
+  },
+  "flightNumber": "BritishAirways_FL036",
+  "tripType": "one-way",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 153.17,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6823"
+  },
+  "flightNumber": "BritishAirways_FL037",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 158,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6824"
+  },
+  "flightNumber": "BritishAirways_FL038",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 152.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6825"
+  },
+  "flightNumber": "BritishAirways_FL039",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 170.38,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6826"
+  },
+  "flightNumber": "BritishAirways_FL040",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 168.12,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6827"
+  },
+  "flightNumber": "BritishAirways_FL041",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T11:00:00",
+  "price": 160.49,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T09:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6828"
+  },
+  "flightNumber": "BritishAirways_FL042",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 170.96,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6829"
+  },
+  "flightNumber": "BritishAirways_FL043",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 163.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682a"
+  },
+  "flightNumber": "BritishAirways_FL044",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 157.36,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682b"
+  },
+  "flightNumber": "BritishAirways_FL045",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 162.65,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682c"
+  },
+  "flightNumber": "BritishAirways_FL046",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 162.28,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682d"
+  },
+  "flightNumber": "BritishAirways_FL047",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 154.13,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682e"
+  },
+  "flightNumber": "BritishAirways_FL048",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 153.6,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c682f"
+  },
+  "flightNumber": "BritishAirways_FL049",
+  "tripType": "one-way",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 164.27,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419880f298e4252c6830"
+  },
+  "flightNumber": "BritishAirways_FL050",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T05:00:00",
+  "price": 171.21,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "BritishAirways.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6831"
+  },
+  "flightNumber": "Lufthansa_FL001",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 168.39,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6832"
+  },
+  "flightNumber": "Lufthansa_FL002",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 153.47,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6833"
+  },
+  "flightNumber": "Lufthansa_FL003",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 171.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6834"
+  },
+  "flightNumber": "Lufthansa_FL004",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T05:00:00",
+  "price": 164.74,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6835"
+  },
+  "flightNumber": "Lufthansa_FL005",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 168.24,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6836"
+  },
+  "flightNumber": "Lufthansa_FL006",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 153.81,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6837"
+  },
+  "flightNumber": "Lufthansa_FL007",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 158.23,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6838"
+  },
+  "flightNumber": "Lufthansa_FL008",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 169.37,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6839"
+  },
+  "flightNumber": "Lufthansa_FL009",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 156.96,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683a"
+  },
+  "flightNumber": "Lufthansa_FL010",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 155.04,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683b"
+  },
+  "flightNumber": "Lufthansa_FL011",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T05:00:00",
+  "price": 165.4,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683c"
+  },
+  "flightNumber": "Lufthansa_FL012",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 169.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683d"
+  },
+  "flightNumber": "Lufthansa_FL013",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 152.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683e"
+  },
+  "flightNumber": "Lufthansa_FL014",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T07:00:00",
+  "price": 164.87,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c683f"
+  },
+  "flightNumber": "Lufthansa_FL015",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 171.94,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6840"
+  },
+  "flightNumber": "Lufthansa_FL016",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 157.91,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6841"
+  },
+  "flightNumber": "Lufthansa_FL017",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 167.83,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6842"
+  },
+  "flightNumber": "Lufthansa_FL018",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T18:00:00",
+  "price": 153.13,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T16:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6843"
+  },
+  "flightNumber": "Lufthansa_FL019",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 163.95,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6844"
+  },
+  "flightNumber": "Lufthansa_FL020",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 157.95,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6845"
+  },
+  "flightNumber": "Lufthansa_FL021",
+  "tripType": "one-way",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 154.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6846"
+  },
+  "flightNumber": "Lufthansa_FL022",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 168.41,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6847"
+  },
+  "flightNumber": "Lufthansa_FL023",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 168.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6848"
+  },
+  "flightNumber": "Lufthansa_FL024",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 154.78,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6849"
+  },
+  "flightNumber": "Lufthansa_FL025",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 164.97,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684a"
+  },
+  "flightNumber": "Lufthansa_FL026",
+  "tripType": "one-way",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 153.52,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684b"
+  },
+  "flightNumber": "Lufthansa_FL027",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 165.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684c"
+  },
+  "flightNumber": "Lufthansa_FL028",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 162.83,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684d"
+  },
+  "flightNumber": "Lufthansa_FL029",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 159.43,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684e"
+  },
+  "flightNumber": "Lufthansa_FL030",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 170.94,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c684f"
+  },
+  "flightNumber": "Lufthansa_FL031",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 159.43,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6850"
+  },
+  "flightNumber": "Lufthansa_FL032",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 155.27,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6851"
+  },
+  "flightNumber": "Lufthansa_FL033",
+  "tripType": "one-way",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 167.25,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6852"
+  },
+  "flightNumber": "Lufthansa_FL034",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T09:00:00",
+  "price": 169.34,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6853"
+  },
+  "flightNumber": "Lufthansa_FL035",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 167.85,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6854"
+  },
+  "flightNumber": "Lufthansa_FL036",
+  "tripType": "one-way",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T04:00:00",
+  "price": 158.26,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T02:00:00"
+    }
+  ],
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6855"
+  },
+  "flightNumber": "Lufthansa_FL037",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T11:00:00",
+  "price": 155.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T09:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6856"
+  },
+  "flightNumber": "Lufthansa_FL038",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 154.03,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6857"
+  },
+  "flightNumber": "Lufthansa_FL039",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 155.56,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6858"
+  },
+  "flightNumber": "Lufthansa_FL040",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T09:00:00",
+  "price": 157.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6859"
+  },
+  "flightNumber": "Lufthansa_FL041",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 168.32,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685a"
+  },
+  "flightNumber": "Lufthansa_FL042",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 157.64,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685b"
+  },
+  "flightNumber": "Lufthansa_FL043",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 166.8,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685c"
+  },
+  "flightNumber": "Lufthansa_FL044",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T04:00:00",
+  "price": 165.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T02:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685d"
+  },
+  "flightNumber": "Lufthansa_FL045",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 156.09,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685e"
+  },
+  "flightNumber": "Lufthansa_FL046",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 166.25,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c685f"
+  },
+  "flightNumber": "Lufthansa_FL047",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 171.92,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6860"
+  },
+  "flightNumber": "Lufthansa_FL048",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 166.4,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6861"
+  },
+  "flightNumber": "Lufthansa_FL049",
+  "tripType": "one-way",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 157.47,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419c80f298e4252c6862"
+  },
+  "flightNumber": "Lufthansa_FL050",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 158.23,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Lufthansa.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6863"
+  },
+  "flightNumber": "AirFrance_FL001",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 167.6,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6864"
+  },
+  "flightNumber": "AirFrance_FL002",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 159.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6865"
+  },
+  "flightNumber": "AirFrance_FL003",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T07:00:00",
+  "price": 155.43,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6866"
+  },
+  "flightNumber": "AirFrance_FL004",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 170.5,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6867"
+  },
+  "flightNumber": "AirFrance_FL005",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 166.99,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6868"
+  },
+  "flightNumber": "AirFrance_FL006",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 157.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6869"
+  },
+  "flightNumber": "AirFrance_FL007",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 170.77,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686a"
+  },
+  "flightNumber": "AirFrance_FL008",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 156.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686b"
+  },
+  "flightNumber": "AirFrance_FL009",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 155.99,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686c"
+  },
+  "flightNumber": "AirFrance_FL010",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 166.85,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686d"
+  },
+  "flightNumber": "AirFrance_FL011",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 157.7,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686e"
+  },
+  "flightNumber": "AirFrance_FL012",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T04:00:00",
+  "price": 165.18,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T02:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c686f"
+  },
+  "flightNumber": "AirFrance_FL013",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 170.01,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6870"
+  },
+  "flightNumber": "AirFrance_FL014",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 152.68,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6871"
+  },
+  "flightNumber": "AirFrance_FL015",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 158.72,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6872"
+  },
+  "flightNumber": "AirFrance_FL016",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 170.57,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6873"
+  },
+  "flightNumber": "AirFrance_FL017",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 155.41,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6874"
+  },
+  "flightNumber": "AirFrance_FL018",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 163.53,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6875"
+  },
+  "flightNumber": "AirFrance_FL019",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T07:00:00",
+  "price": 153.25,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6876"
+  },
+  "flightNumber": "AirFrance_FL020",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T20:00:00",
+  "price": 164.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T18:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6877"
+  },
+  "flightNumber": "AirFrance_FL021",
+  "tripType": "one-way",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 161.47,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6878"
+  },
+  "flightNumber": "AirFrance_FL022",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 153.91,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6879"
+  },
+  "flightNumber": "AirFrance_FL023",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 161.72,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687a"
+  },
+  "flightNumber": "AirFrance_FL024",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T18:00:00",
+  "price": 153.04,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T16:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687b"
+  },
+  "flightNumber": "AirFrance_FL025",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T21:00:00",
+  "price": 155.72,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T19:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687c"
+  },
+  "flightNumber": "AirFrance_FL026",
+  "tripType": "one-way",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T21:00:00",
+  "price": 160.12,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T19:00:00"
+    }
+  ],
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687d"
+  },
+  "flightNumber": "AirFrance_FL027",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 162.88,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687e"
+  },
+  "flightNumber": "AirFrance_FL028",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T05:00:00",
+  "price": 160.18,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c687f"
+  },
+  "flightNumber": "AirFrance_FL029",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T11:00:00",
+  "price": 171.65,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T09:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6880"
+  },
+  "flightNumber": "AirFrance_FL030",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 153.71,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6881"
+  },
+  "flightNumber": "AirFrance_FL031",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T21:00:00",
+  "price": 155.83,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T19:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6882"
+  },
+  "flightNumber": "AirFrance_FL032",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 156.81,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6883"
+  },
+  "flightNumber": "AirFrance_FL033",
+  "tripType": "one-way",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 168.68,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6884"
+  },
+  "flightNumber": "AirFrance_FL034",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 153.09,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6885"
+  },
+  "flightNumber": "AirFrance_FL035",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 158.57,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6886"
+  },
+  "flightNumber": "AirFrance_FL036",
+  "tripType": "one-way",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 164,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6887"
+  },
+  "flightNumber": "AirFrance_FL037",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 170.94,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6888"
+  },
+  "flightNumber": "AirFrance_FL038",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 165.84,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6889"
+  },
+  "flightNumber": "AirFrance_FL039",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 154.87,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688a"
+  },
+  "flightNumber": "AirFrance_FL040",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 162.86,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688b"
+  },
+  "flightNumber": "AirFrance_FL041",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 171.59,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688c"
+  },
+  "flightNumber": "AirFrance_FL042",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 169.63,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688d"
+  },
+  "flightNumber": "AirFrance_FL043",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 160.59,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688e"
+  },
+  "flightNumber": "AirFrance_FL044",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 162.09,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c688f"
+  },
+  "flightNumber": "AirFrance_FL045",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T06:00:00",
+  "price": 157.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6890"
+  },
+  "flightNumber": "AirFrance_FL046",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 154.34,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6891"
+  },
+  "flightNumber": "AirFrance_FL047",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 156.79,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6892"
+  },
+  "flightNumber": "AirFrance_FL048",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 166.52,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6893"
+  },
+  "flightNumber": "AirFrance_FL049",
+  "tripType": "one-way",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 156.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c419f80f298e4252c6894"
+  },
+  "flightNumber": "AirFrance_FL050",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 162.8,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "AirFrance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c6896"
+  },
+  "flightNumber": "Swiss_FL001",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 171.62,
+  "stopovers": [
+    {
+      "stopoverCountry": "France",
+      "stopoverTown": "Paris",
+      "airport": "Paris National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c6897"
+  },
+  "flightNumber": "Swiss_FL002",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 165.56,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c6898"
+  },
+  "flightNumber": "Swiss_FL003",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 171.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c6899"
+  },
+  "flightNumber": "Swiss_FL004",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 160.71,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689a"
+  },
+  "flightNumber": "Swiss_FL005",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 171.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689b"
+  },
+  "flightNumber": "Swiss_FL006",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T05:00:00",
+  "price": 156.88,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-06T03:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689c"
+  },
+  "flightNumber": "Swiss_FL007",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 166.69,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689d"
+  },
+  "flightNumber": "Swiss_FL008",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 161.98,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689e"
+  },
+  "flightNumber": "Swiss_FL009",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 166.1,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c689f"
+  },
+  "flightNumber": "Swiss_FL010",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 171,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a0"
+  },
+  "flightNumber": "Swiss_FL011",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 170.3,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a1"
+  },
+  "flightNumber": "Swiss_FL012",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 159.28,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a2"
+  },
+  "flightNumber": "Swiss_FL013",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T11:00:00",
+  "price": 159.44,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T09:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a3"
+  },
+  "flightNumber": "Swiss_FL014",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T22:00:00",
+  "price": 156.53,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T20:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a4"
+  },
+  "flightNumber": "Swiss_FL015",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 171.81,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a5"
+  },
+  "flightNumber": "Swiss_FL016",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 165.67,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a6"
+  },
+  "flightNumber": "Swiss_FL017",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 155.79,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a7"
+  },
+  "flightNumber": "Swiss_FL018",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 169.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a8"
+  },
+  "flightNumber": "Swiss_FL019",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 165.22,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68a9"
+  },
+  "flightNumber": "Swiss_FL020",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T00:00:00",
+  "price": 166.27,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T22:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68aa"
+  },
+  "flightNumber": "Swiss_FL021",
+  "tripType": "one-way",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T00:00:00",
+  "price": 152.71,
+  "stopovers": [
+    {
+      "stopoverCountry": "Denmark",
+      "stopoverTown": "Copenhagen",
+      "airport": "Copenhagen National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T22:00:00"
+    }
+  ],
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68ab"
+  },
+  "flightNumber": "Swiss_FL022",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 152.67,
+  "stopovers": [
+    {
+      "stopoverCountry": "Hungary",
+      "stopoverTown": "Budapest",
+      "airport": "Budapest National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68ac"
+  },
+  "flightNumber": "Swiss_FL023",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T17:00:00",
+  "price": 165.93,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T15:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68ad"
+  },
+  "flightNumber": "Swiss_FL024",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T23:00:00",
+  "price": 154.94,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T21:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68ae"
+  },
+  "flightNumber": "Swiss_FL025",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 166.49,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68af"
+  },
+  "flightNumber": "Swiss_FL026",
+  "tripType": "one-way",
+  "from": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T14:00:00",
+  "price": 171.48,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T12:00:00"
+    }
+  ],
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b0"
+  },
+  "flightNumber": "Swiss_FL027",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 157.52,
+  "stopovers": [
+    {
+      "stopoverCountry": "Norway",
+      "stopoverTown": "Oslo",
+      "airport": "Oslo National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b1"
+  },
+  "flightNumber": "Swiss_FL028",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T08:00:00",
+  "price": 159.56,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-06T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b2"
+  },
+  "flightNumber": "Swiss_FL029",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 155.22,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b3"
+  },
+  "flightNumber": "Swiss_FL030",
+  "tripType": "round-trip",
+  "from": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T19:00:00",
+  "price": 171.1,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T17:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b4"
+  },
+  "flightNumber": "Swiss_FL031",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 169.75,
+  "stopovers": [
+    {
+      "stopoverCountry": "Czech Republic",
+      "stopoverTown": "Prague",
+      "airport": "Prague National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b5"
+  },
+  "flightNumber": "Swiss_FL032",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 168.66,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b6"
+  },
+  "flightNumber": "Swiss_FL033",
+  "tripType": "one-way",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 158.74,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b7"
+  },
+  "flightNumber": "Swiss_FL034",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T07:00:00",
+  "price": 164.42,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T05:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b8"
+  },
+  "flightNumber": "Swiss_FL035",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 156.82,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68b9"
+  },
+  "flightNumber": "Swiss_FL036",
+  "tripType": "one-way",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T09:00:00",
+  "price": 170.03,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T07:00:00"
+    }
+  ],
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68ba"
+  },
+  "flightNumber": "Swiss_FL037",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T16:00:00",
+  "price": 157.12,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T14:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68bb"
+  },
+  "flightNumber": "Swiss_FL038",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T11:00:00",
+  "price": 157.31,
+  "stopovers": [
+    {
+      "stopoverCountry": "Greece",
+      "stopoverTown": "Athens",
+      "airport": "Athens National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T09:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68bc"
+  },
+  "flightNumber": "Swiss_FL039",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Sweden",
+    "town": "Stockholm"
+  },
+  "to": {
+    "country": "France",
+    "town": "Paris"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T08:00:00",
+  "price": 156.45,
+  "stopovers": [
+    {
+      "stopoverCountry": "Germany",
+      "stopoverTown": "Berlin",
+      "airport": "Berlin National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T06:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68bd"
+  },
+  "flightNumber": "Swiss_FL040",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Netherlands",
+    "town": "Amsterdam"
+  },
+  "to": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T10:00:00",
+  "price": 168.28,
+  "stopovers": [
+    {
+      "stopoverCountry": "Switzerland",
+      "stopoverTown": "Zurich",
+      "airport": "Zurich National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T08:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68be"
+  },
+  "flightNumber": "Swiss_FL041",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 170.32,
+  "stopovers": [
+    {
+      "stopoverCountry": "Finland",
+      "stopoverTown": "Helsinki",
+      "airport": "Helsinki National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68bf"
+  },
+  "flightNumber": "Swiss_FL042",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T03:00:00",
+  "price": 170.71,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T01:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c0"
+  },
+  "flightNumber": "Swiss_FL043",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "to": {
+    "country": "Germany",
+    "town": "Berlin"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 155.27,
+  "stopovers": [
+    {
+      "stopoverCountry": "Belgium",
+      "stopoverTown": "Brussels",
+      "airport": "Brussels National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c1"
+  },
+  "flightNumber": "Swiss_FL044",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "to": {
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T02:00:00",
+  "price": 162.4,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-06T00:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c2"
+  },
+  "flightNumber": "Swiss_FL045",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Switzerland",
+    "town": "Bern"
+  },
+  "to": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T06:00:00",
+  "price": 168.34,
+  "stopovers": [
+    {
+      "stopoverCountry": "Sweden",
+      "stopoverTown": "Stockholm",
+      "airport": "Stockholm National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T04:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c3"
+  },
+  "flightNumber": "Swiss_FL046",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "to": {
+    "country": "Italy",
+    "town": "Rome"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T13:00:00",
+  "price": 154.44,
+  "stopovers": [
+    {
+      "stopoverCountry": "Netherlands",
+      "stopoverTown": "Amsterdam",
+      "airport": "Amsterdam National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T11:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c4"
+  },
+  "flightNumber": "Swiss_FL047",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Denmark",
+    "town": "Copenhagen"
+  },
+  "to": {
+    "country": "Portugal",
+    "town": "Lisbon"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T12:00:00",
+  "price": 156.13,
+  "stopovers": [
+    {
+      "stopoverCountry": "Austria",
+      "stopoverTown": "Vienna",
+      "airport": "Vienna National Airport",
+      "arrival": "2024-06-05T03:00:00",
+      "departure": "2024-06-05T10:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c5"
+  },
+  "flightNumber": "Swiss_FL048",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Norway",
+    "town": "Oslo"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T18:00:00",
+  "price": 163.77,
+  "stopovers": [
+    {
+      "stopoverCountry": "Italy",
+      "stopoverTown": "Rome",
+      "airport": "Rome National Airport",
+      "arrival": "2024-06-05T02:00:00",
+      "departure": "2024-06-05T16:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c6"
+  },
+  "flightNumber": "Swiss_FL049",
+  "tripType": "one-way",
+  "from": {
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "to": {
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-05T15:00:00",
+  "price": 162.75,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T13:00:00"
+    }
+  ],
+  "logo": "Swiss.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667c41a680f298e4252c68c7"
+  },
+  "flightNumber": "Swiss_FL050",
+  "tripType": "round-trip",
+  "from": {
+    "country": "Belgium",
+    "town": "Brussels"
+  },
+  "to": {
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "departure": "2024-06-05T00:00:00",
+  "arrival": "2024-06-06T01:00:00",
+  "price": 159.47,
+  "stopovers": [
+    {
+      "stopoverCountry": "Poland",
+      "stopoverTown": "Warsaw",
+      "airport": "Warsaw National Airport",
+      "arrival": "2024-06-05T01:00:00",
+      "departure": "2024-06-05T23:00:00"
+    }
+  ],
+  "returnDeparture": "2024-06-12T00:00:00",
+  "returnArrival": "2024-06-12T05:00:00",
+  "logo": "Swiss.jpeg"
+}]

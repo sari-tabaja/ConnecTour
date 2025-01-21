@@ -1,0 +1,12 @@
+.space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+.space h1 {
+  font-size: 48px;
+  background: linear-gradient(to right, #0077B6, #7209B7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
