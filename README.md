@@ -68,7 +68,7 @@ ConnecTour follows a three-layer architecture:
 ![Profile](screenshots/profile.png)
 
 ### 11. My Bookings
-![Bookings](screenshots/Bookings.png)
+![Bookings](screenshots/Booking.png)
 
 ### 12. Payment Page
 ![Payment](screenshots/payment.png)
